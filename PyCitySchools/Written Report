@@ -1,0 +1,4 @@
+From the "Scores by School Spending" Dataframe, we can see that the higher performing schools are actually those with a lower budget per student. 
+Schools with budgets under $600 per student outperformed the schools with the highest budgets across all categories. 
+
+The "Scores by School Size" Dataframe demonstrates that schools with a smaller student population perform significantly better than larger schools, particularly in Math. 
